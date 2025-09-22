@@ -1,0 +1,15 @@
+
+
+# output for the code returning the answers to the questions.
+
+The Louvre is approximately 3 miles away from the Eiffel Tower by car.
+The Arc de Triomphe is located at the western end of the Champs-Élysées, at Place Charles de Gaulle in Paris.
+Must-see artworks at the Louvre Museum include:
+
+1. **Mona Lisa** by Leonardo da Vinci
+2. **Venus de Milo** (Aphrodite of Milos)
+3. **Winged Victory of Samothrace**
+4. **The Coronation of Napoleon** by Jacques-Louis David
+5. **Liberty Leading the People** by Eugène Delacroix
+
+These masterpieces are iconic and represent significant periods in art history.
