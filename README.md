@@ -1,2 +1,2 @@
 # Datacamp-projects
-Projects worked on the track for AI Engineer at Datacamp
+Created a project that using openAI to evaluate prompt from a customer that 
